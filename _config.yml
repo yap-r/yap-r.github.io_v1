@@ -29,7 +29,7 @@ url: "yap-r.github.io"
 twitter_username: 
 github_username:  yap-r
 
-logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/ry_logo.png
 search: true
 search_full_content: true
 search_provider: algolia
